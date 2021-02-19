@@ -1,0 +1,22 @@
+header{text-align: center;
+		background-color:#6BA8A9;
+		color: #E5DFDF;
+		padding: 10px;}
+	body {background-color: #364039;
+		color: white;} 
+h2{background-color:#6BA8A9;
+text-align: center; }
+a{
+			text-decoration: none;
+			color: black;
+		}
+		a: active{
+			color: #357376
+		}
+		a:visited{
+			color: #357376;
+
+		}
+		image{
+			text-align: center;
+		}

@@ -1,0 +1,23 @@
+	header{text-align: center;
+		background-color:#f5b0cb;
+		color: white;
+		padding: 10px;}
+		a{
+			text-decoration: none;
+			color: black;
+		}
+		a: active{
+			color: #D597CE;
+		}
+		a:visited{
+			color: #f5b0cb;
+
+		}
+h1{font-family: georgia,serif;}
+h3{background:#39375b;
+	color:white;}
+body{background-color:#745C97;
+	color:White;
+	font-family:  arial,helvatica,sans-serif;
+	font-size: 15px;
+	padding-bottom: 5px;}
